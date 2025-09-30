@@ -114,3 +114,8 @@ webcolors==24.11.1
 webencodings==0.5.1
 websocket-client==1.8.0
 scipy
+blinker-1.9.0 
+click-8.3.0 
+flask-3.1.2 
+itsdangerous-2.2.0 
+werkzeug-3.1.3
